@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>pavan koka</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+	<div class="container">
+
+		<br>
+		<p>You can highlight words or <mark>text using the mark</mark> tags.</p>
+
+		<blockquote>
+			<p>you could not live with your own failure</p>
+			<footer>The Thanos</footer>
+		</blockquote>
+
+		<h4>Worth stopping my watch</h4>
+		<dl>
+			<dt>Indoor</dt>
+				<dd>Guitar</dd>
+				<dd>Chess</dd>
+				<dd>Table Tennis</dd>
+				<dd>Interior designing</dd>
+			<dt>Outdoor</dt>
+				<dd>Cricket</dd>
+				<dd>Race Tracks</dd>	
+		</dl>
+
+		<p>If you wanna copy my code <code>uCantBud();</code> do not hesitate</p>
+
+		<p>If you wanna take more, pre tags come into picture</p>
+		<pre>
+//python
+for n in range(32):
+	if(n%4 i 0)
+		print(n)
+		</pre>
+
+		<p>Once upon, we used to see this <kbd>Ctrl + Alt + Del</kbd></p>
+
+		<h4>Let's check some Build-in color classes</h4>
+		<p class = "text-muted">Something's about to happen</p>
+		<p class = "text-success">Sorry! Earth is closed today!</p>
+		<p class = "text-danger">Thanos is on his way</p>
+		<p class = "bg-success">Spidy took over</p>
+		<p class = "bg-danger">Iron Man is no more</p>
+	</div>
+
+</body>
+</html>
