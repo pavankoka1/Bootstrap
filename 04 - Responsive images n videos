@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>pavan koka</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+	<div class="container-fluid">
+		
+		<img src="da-vinci.jpg" class="img-rounded" width="200" height="300">
+		<img src="mona-lisa.jpg" class="img-circle" width="200" height="300">
+
+		<img src="da-vinci.jpg" class="img-responsive" width="400" height="600">
+
+		<div class="embed-responsive embed-responsive-16by9">
+			<iframe class="embed-responsive-item" src="http://www.youtube.com/embed/7F37r50VUTQ"></iframe>
+		</div>
+
+	</div>
+
+</body>
+</html>
