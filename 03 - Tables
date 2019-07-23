@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>pavan koka</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+	<div class="container">
+		
+		<h2>Simple Avengers Table</h2>
+		<table class="table">
+
+			<thead>
+				<tr>
+					<th>Avenger</th>
+					<th>Origin</th>
+					<th>Power</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td>Iron Man</td>
+					<td>New York</td>
+					<td>God of MCU</td>
+				</tr>
+				<tr>
+					<td>Captain America</td>
+					<td>Queens brooklyn</td>
+					<td>Shield</td>
+				</tr>
+				<tr>
+					<td>Spider Man</td>
+					<td>Queens</td>
+					<td>Spider-Web</td>
+				</tr>
+				<tr>
+					<td>Thor</td>
+					<td>Asgard</td>
+					<td>God of Thunder</td>
+				</tr>
+			</tbody>
+
+		</table>
+
+		<h2>Condensed Avengers Table</h2>
+		<table class="table table Condensed">
+
+			<thead>
+				<tr>
+					<th>Avenger</th>
+					<th>Origin</th>
+					<th>Power</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td>Iron Man</td>
+					<td>New York</td>
+					<td>God of MCU</td>
+				</tr>
+				<tr>
+					<td>Captain America</td>
+					<td>Queens brooklyn</td>
+					<td>Shield</td>
+				</tr>
+				<tr>
+					<td>Spider Man</td>
+					<td>Queens</td>
+					<td>Spider-Web</td>
+				</tr>
+				<tr>
+					<td>Thor</td>
+					<td>Asgard</td>
+					<td>God of Thunder</td>
+				</tr>
+			</tbody>
+
+		</table>
+
+		<h2>Striped Avengers Table</h2>
+		<table class="table table Striped">
+
+			<thead>
+				<tr>
+					<th>Avenger</th>
+					<th>Origin</th>
+					<th>Power</th>
+				</tr>
+			</thead>
+
+			<tbody>
+				<tr>
+					<td>Iron Man</td>
+					<td>New York</td>
+					<td>God of MCU</td>
+				</tr>
+				<tr>
+					<td>Captain America</td>
+					<td>Queens brooklyn</td>
+					<td>Shield</td>
+				</tr>
+				<tr>
+					<td>Spider Man</td>
+					<td>Queens</td>
+					<td>Spider-Web</td>
+				</tr>
+				<tr>
+					<td>Thor</td>
+					<td>Asgard</td>
+					<td>God of Thunder</td>
+				</tr>
+			</tbody>
+
+		</table>
+
+	</div>
+
+</body>
+</html>
