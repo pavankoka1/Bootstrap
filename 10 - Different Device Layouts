@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>pavan koka</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+
+	<div class="container-fluid">
+
+		<h3>Phone entire width, desktop 1/2</h3>
+		<div class="row">
+			<div class="col-xs-12 col-md-6" style="background: lightblue;">Phone entire width, desktop 1/2</div>
+			<div class="col-xs-12 col-md-6" style="background: lightcoral;">Phone entire width, desktop 1/2</div>
+			<div class="col-xs-12 col-md-6" style="background: #87e68f;">Phone entire width, desktop 1/2</div>
+		</div>
+
+		<h3>Phone width 1/2, desktop 1/3</h3>
+		<div class="row">
+			<div class="col-xs-6 col-md-4" style="background: lightblue;">Phone entire width, desktop 1/2</div>
+			<div class="col-xs-6 col-md-4" style="background: lightcoral;">Phone entire width, desktop 1/2</div>
+			<div class="col-xs-6 col-md-4" style="background: #87e68f;">Phone entire width, desktop 1/2</div>
+		</div>
+
+		<h3>Offsetting columns</h3>
+		<div class="row">
+			<div class="col-md-4" style="background: lightblue;">Phone entire width, desktop 1/2</div>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4 col-md-offset-2" style="background: lightcoral;">Phone entire width, desktop 1/2</div>
+		</div>
+
+		<h3>Nesting Rows</h3>
+		<div class="row">
+			<div class="col-md-9" style="background: lightblue; padding: 30px;">
+				Hey i went to movie today!
+				<div class="row">
+					<div class="col-md-6" style="background: lightcoral;">child 2</div>
+					<div class="col-md-6" style="background: #87e68f;">child 1</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>
