@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>pavan koka</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+
+	<div class="container-fluid">
+
+		<h3>Nesting Rows</h3>
+		<div class="row">
+			<div class="col-md-5 col-md-push-5" style="background: lightblue;">Column A - Main Banner</div>
+			<div class="col-md-5 col-md-pull-5" style="background: lightcoral;">Column B</div>
+			<div class="col-md-2" style="background: #8f76f8;">Column C</div>			
+		</div>
+		
+	</div>
+
+</body>
+</html>
